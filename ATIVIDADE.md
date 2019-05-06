@@ -6,9 +6,10 @@
 2. Criar um arquivo
 3. Enviar o arquivo para o repositorio utilizando o git
 
-### Trecho de codigo utilizando em outras aulas
+### Trecho de codigo utilizado em outras aulas
 
-```<#include <stdio.h>
+```<
+#include <stdio.h>
 #include <math.h>
 int main(){
     double a=0,b=0,c=0,delta=0,x1=0,x2=0,div=0;
@@ -34,4 +35,5 @@ int main(){
   }
   return 0;
 }
+
 >```
