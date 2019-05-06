@@ -1,12 +1,12 @@
-#Atividade
+# Atividade
 
-##Coisas a fazer
+## Coisas a fazer
 
-1.Criar um repositorio no GitHub
-2.Criar um arquivo
-3.Enviar o arquivo para o repositorio utilizando o git
+1. Criar um repositorio no GitHub
+2. Criar um arquivo
+3. Enviar o arquivo para o repositorio utilizando o git
 
-###Trecho de codigo utilizando em outras aulas
+### Trecho de codigo utilizando em outras aulas
 
 ```<#include <stdio.h>
 #include <math.h>
